@@ -46,7 +46,6 @@ def create_test():
     saveChoice(q, 'Compiler')
 
     q = saveQuestion(test, 'The bootloader’s job is to:')
-    saveChoice(q, 'The bootloader’s job is to:')
     saveChoice(q, 'Assign initial settings such as network address')
     saveChoice(q, 'Install software from the Internet or removable media')
     saveChoice(q, 'Perform the initial installation of the kernel to hard drive')
